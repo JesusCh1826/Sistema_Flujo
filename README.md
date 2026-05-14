@@ -1,3 +1,4 @@
+[Diagrama en blanco (5).pdf](https://github.com/user-attachments/files/27781709/Diagrama.en.blanco.5.pdf)
 # Wiki de Documentación de Software
 
 Este proyecto consiste en una plataforma Wiki centralizada para la gestión de documentación técnica, desarrollada bajo una arquitectura cliente-servidor.
